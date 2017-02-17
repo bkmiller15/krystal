@@ -1,0 +1,42 @@
+[
+  {
+    "Name": "Email",
+    "Rating": "0"
+  },
+  {
+    "Name": "Meetings",
+    "Rating": "0"
+  },
+  {
+    "Name": "Discussions",
+    "Rating": "0"
+  },
+  {
+    "Name": "Todos",
+    "Rating": "0"
+  },
+  {
+    "Name": "Failures",
+    "Rating": "0"
+  },
+  {
+    "Name": "Tasks",
+    "Rating": "0"
+  },
+  {
+    "Name": "Thoughts",
+    "Rating": "0"
+  },
+  {
+    "Name": "Phone_Calls",
+    "Rating": "0"
+  },
+  {
+    "Name": "Firmware",
+    "Rating": "0"
+  },
+  {
+    "Name": "Last",
+    "Rating": "0"
+  }
+]
